@@ -1,4 +1,1 @@
-nginx
-mysql:8.0.37
-redis:6.2.14
-postgres
+mongo:7.0.18
