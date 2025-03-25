@@ -1,1 +1,1 @@
-mongo:7.0.18
+bitnami/minio:2025.3.12
