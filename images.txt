@@ -1,1 +1,1 @@
-minio/minio:2025.3.12
+minio/minio:latest
