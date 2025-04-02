@@ -1,1 +1,1 @@
-minio/minio:latest
+gitlab/gitlab-ce:17.8.5-ce.0
